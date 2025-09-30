@@ -3,10 +3,10 @@ import { NavLink } from "react-router-dom";
 import "./Sidebar.css";
 
 import { TbLayoutDashboard, TbReportAnalytics } from "react-icons/tb";
-import { BsPeople, BsPersonCheck, BsPersonCheckFill } from "react-icons/bs";
+import { BsPeople, BsPersonCheck } from "react-icons/bs";
 import { MdOutlinePayment } from "react-icons/md";
 import { PiBuildingOffice } from "react-icons/pi";
-import { IoDocumentAttachOutline, IoDocumentTextOutline } from "react-icons/io5";
+import { IoDocumentTextOutline } from "react-icons/io5";
 import { LuSettings } from "react-icons/lu";
 
 const Sidebar: React.FC = () => {
