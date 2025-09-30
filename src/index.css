@@ -7,6 +7,10 @@
   --whiteBg: #f9fafb;
   --navBg: #fefefe;
   --boxBg: #1f2937;
+  --lightBorderColor: #f9fafb;
+  --primary: #2563EB;
+  --mainGreen: #0daf7a;
+  --mainOrange: #e78a07;
   --darkText: #d1d5db;
   --radius: 0.625rem;
   --background: oklch(1 0 0);

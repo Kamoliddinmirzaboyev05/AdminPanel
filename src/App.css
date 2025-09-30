@@ -1,6 +1,5 @@
 * {
-  margin: 0;
-  /* padding: 0; */
+
   box-sizing: border-box;
 }
 .container {
@@ -28,6 +27,7 @@
   grid-row: 2 / 3;
   grid-column: 2 / 3;
   background: #f9fafb;
-  padding: 20px;
+  padding: 15px;
+  padding-top: 40px;
   overflow-y: auto;
 }
