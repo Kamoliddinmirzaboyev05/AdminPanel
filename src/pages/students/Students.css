@@ -1,0 +1,4 @@
+.searchForm input:focus {
+  border: blue 1px solid;
+  outline: none;
+}

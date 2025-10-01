@@ -7,7 +7,7 @@
   border-right: 1px solid var(--sidebar-border);
   box-shadow: 0px 4px 6px rgb(0, 0, 0);
 }
-.sidebarLinks a{
+.sidebarLinks a {
   display: block;
   display: flex;
   align-items: center;
@@ -21,15 +21,16 @@
   font-weight: 500;
   transition: all 0.5s ease;
 }
-.sidebarLinks a svg{
-font-size: 24px;
-color: #6c7280;
+.sidebarLinks a svg {
+  font-size: 24px;
+  color: #6c7280;
 }
-.sidebarLinks a.active svg{
-font-size: 24px;
-color: #fff;
+.sidebarLinks a.active svg {
+  font-size: 24px;
+  color: #fff;
 }
-.sidebarLinks a.active{
+.sidebarLinks a.active {
   background: linear-gradient(90deg, #3a80f6, #1e50d9);
   color: white;
 }
+
